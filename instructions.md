@@ -1,4 +1,4 @@
-# Laboration 2
+# Laboration 3
 
 - Om du ej kan öppna filen på windows, se till att den slutar på .ipynb och inte på .txt
 
