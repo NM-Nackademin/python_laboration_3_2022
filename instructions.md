@@ -24,7 +24,7 @@
 
 Du har fått en jupyter notebook där du stegvis ska lösa frågor uppifrån -> nedåt. Denna övning ska testa att du förstår hur du kan använda grundläggande pandas genom att manipulera data och dra enklare slutsatser från den med hjälp av dataframes i pandas.
 
-- För **Varje** cell ska du koden du skrivit vara printa ut resultatet av dina operationer så att jag kan se resultatet och följa stegen du tar (genom att helt enkelt skriva "df" på slutet av varje cell). För vissa celler kan du dessutom se vilken output jag förväntar mig från celler där det står "Ta ej bort denna cell". 
+- För **Varje** cell koden du skrivit vara printa ut koden + resultatet av dina operationer så att jag kan följa stegen du tar (genom att helt enkelt skriva "df" på slutet av varje cell). För vissa celler kan du dessutom se vilken output jag förväntar mig från celler där det står "Ta ej bort denna cell". 
 - **Det ska gå att köra koden från början till slut och få samma resultat igen**
 - Du ska beskriva koden i varje cell så att jag ser att du förstår vad du gör. 
 - Använd dokumentationen som stöd [https://pandas.pydata.org/docs/reference/frame.html](https://pandas.pydata.org/docs/reference/frame.html)
