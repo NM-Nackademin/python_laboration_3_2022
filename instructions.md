@@ -16,13 +16,14 @@
 - För att få **VG** ska du klara av den godkända sektionen med ytterst få fel och sektionen majoriteten av VG-frågorna. Du ska förklara vad din kod gör detaljerat, i synnerhet de mer avancerade stegen så att jag ser att du verkligen förstår vad du gör.
 
 ## Inlämning
+
 - Ta bort alla onödiga filer, filen som ska rättas ska heta main.ipynb och din kod bör vara på den huvudsakliga branchen "main" eller "master".
 - Se till att du körde git clone på din EGEN repository för labben.
 - Feedback ges via en speciell branch som skapas automatiskt som heter feedback, ta inte bort denna branch.
 
 ## Beskrivning:
 
-Du har fått en jupyter notebook där du stegvis ska lösa frågor uppifrån -> nedåt. Denna övning ska testa att du förstår hur du kan använda grundläggande pandas genom att manipulera data och dra enklare slutsatser från den med hjälp av dataframes i pandas.
+Du har fått en jupyter notebook där du stegvis ska lösa frågor uppifrån -> nedåt. Denna övning ska testa att du förstår hur du kan använda grundläggande pandas genom att manipulera data och dra enklare slutsatser från den med hjälp av dataframes i pandas. Datan ni ska jobba med är baserad på projekt som blivit finansierade på kickstarter.com, en tjänst där personer och företag kan söka finansiering från allmänheten.
 
 - För **VARJE** cell ska koden du skrivit vara printa ut koden + resultatet av dina operationer så att jag kan följa stegen du tar (genom att helt enkelt skriva "df" på slutet av varje cell). För vissa celler kan du dessutom se vilken output jag förväntar mig från celler där det står "Ta ej bort denna cell". 
 - **Det ska gå att köra koden från början till slut och få samma resultat igen**
