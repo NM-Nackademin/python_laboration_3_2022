@@ -1,4 +1,7 @@
-# Laboration 2 
+# Laboration 2
+
+- Om du ej kan öppna filen på windows, se till att den slutar på .ipynb och inte på .txt
+
 ## LÄS DETTA FÖRST
 **Deadline**: 2022/10/26 23:59 (Onsdag den 26e oktober)
 
